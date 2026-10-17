@@ -28,7 +28,6 @@ This project presents an interactive banking analytics dashboard developed using
 - Interactive filters and slicers
 
 ## Project Files
-- `.pbix` file: Power BI dashboard
 - `Screenshots/`: Dashboard previews
 
 ## Key Learnings
